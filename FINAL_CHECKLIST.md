@@ -1,0 +1,15 @@
+# Final checklist for 2026AJ05869
+- [ ] README and report title page state h=64, d=128, heads=4, seeds 7/17/27.
+- [ ] No variants-table lookup or FAQ reference remains.
+- [ ] Parameter counts are generated for chosen h/d, not copied.
+- [ ] Student recurrent cells and Transformer components are complete and tested.
+- [ ] Own 3-token Q/K/V hand calculation appears in the report and matches code.
+- [ ] LSTM forget-bias 0 vs 1 at T=200 is complete.
+- [ ] SMOKE_MODE=False for final runs.
+- [ ] All required three-seed grids and ablations are recorded in results.csv.
+- [ ] Figures are numbered, captioned and discussed.
+- [ ] Three samples are exactly 500 characters each.
+- [ ] Both notebooks pass Restart and Run All with saved outputs.
+- [ ] Final report.pdf has no placeholders and respects page/format limits.
+- [ ] validate_submission.py passes after student TODO completion.
+- [ ] ZIP root/name is 2026AJ05869_DNN_Assignment and contains no data/checkpoints/venv/cache.
