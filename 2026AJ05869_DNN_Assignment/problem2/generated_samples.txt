@@ -1,0 +1,8 @@
+Temperature 0.2
+[Replace with exactly 500 generated characters]
+
+Temperature 0.8
+[Replace with exactly 500 generated characters]
+
+Temperature 1.5
+[Replace with exactly 500 generated characters]
